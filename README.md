@@ -6,6 +6,6 @@
 
 ```
 I completed the challenge: 5
-I feel good about my code: 4
+I feel good about my code: 4.5
 I worked on this project collaboratively with my house. 
 ```
